@@ -74,4 +74,4 @@ class MyStage : public cpp_utils::StageBase<MyInput, MyOutput> {
 ## 👥 Acknowledgments
 
 * JSON loading and schema support based on [RapidJSON](https://github.com/Tencent/rapidjson)
-* Multi-threaded stage system was initially designed in **Cheng Minghao's** PhD and adapted for this work.
+* Stage Base Template was initially designed in **Cheng Minghao's** PhD and adjusted for online-tracking.
