@@ -24,9 +24,7 @@ namespace cpp_utils{
  * @example
  *     auto names = get_filenames<4>("./data", ".mp4");
  *     might return: {"video1", "video2", "video3", "video4"}
- */
-
-
+*/
 template<size_t BATCH_SIZE>
 std::array<std::string, BATCH_SIZE> get_filenames(
     const std::string &resources, const std::string &extension
