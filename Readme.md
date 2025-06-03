@@ -5,6 +5,8 @@
 A lightweight C++ utility module for multithreaded pipeline components and JSON handling.
 Includes a flexible `StageBase` class for real-time data processing and tools for loading, validating, and writing structured JSON files using [RapidJSON](https://github.com/Tencent/rapidjson).
 
+This module is part of my  **ROS/ROS2** [real-time 3D tracker](https://github.com/HenrikTrom/real-time-3D-tracking) and its [docker-implementation](https://github.com/HenrikTrom/ROSTrack-RT-3D).
+
 ## 📑 Citation
 
 If you use this software, please use the GitHub **“Cite this repository”** button at the top(-right) of this page.
