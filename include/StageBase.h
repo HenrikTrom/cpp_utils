@@ -45,6 +45,7 @@ protected:
     std::chrono::milliseconds duration{0};
     std::chrono::milliseconds total_dt{0};
     std::size_t n_iterations{0};
+    std::string type;
 
 public:
     StageBase(void);
