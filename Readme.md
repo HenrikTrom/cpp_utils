@@ -41,8 +41,8 @@ Features:
 Include this repo as a submodule or CMake interface library in larger projects, such as:
 
 - [flirmulticamera](https://github.com/HenrikTrom/flirmulticamera)
-- [detection-inference](https://github.com/HenrikTrom/detection-inference)
-- [pose-inference](https://github.com/HenrikTrom/pose-inference)
+- [detection-inference](https://github.com/HenrikTrom/detection_inference)
+- [pose-inference](https://github.com/HenrikTrom/pose_inference)
 
 
 ## Dependencies
